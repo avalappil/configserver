@@ -1,2 +1,4 @@
 switches:
  allow: false
+server:
+  port: 8081
