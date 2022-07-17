@@ -1,0 +1,4 @@
+switches:
+ allow: false
+server:
+  port: 8082
