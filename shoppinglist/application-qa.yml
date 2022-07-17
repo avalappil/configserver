@@ -3,3 +3,4 @@ personal:
   usertype: AMN
 server:
   port: 8082
+  env: qa
