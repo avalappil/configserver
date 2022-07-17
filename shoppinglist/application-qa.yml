@@ -1,3 +1,5 @@
 personal:
   enabled: true
   usertype: AMN
+server:
+  port: 8082
